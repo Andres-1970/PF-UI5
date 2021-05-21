@@ -1,4 +1,4 @@
-<mvc:View controllerName="pfui5.html5.controller.AppView"
+<mvc:View controllerName="pfui5.html5module.controller.AppView"
                xmlns:mvc="sap.ui.core.mvc"
             displayBlock="true"
                    xmlns="sap.m">

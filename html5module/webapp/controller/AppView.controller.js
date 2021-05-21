@@ -7,7 +7,7 @@ sap.ui.define([
 	function (Controller) {
 		"use strict";
 
-		return Controller.extend("pfui5.html5.controller.AppView", {
+		return Controller.extend("pfui5.html5module.controller.AppView", {
 			onInit: function () {
 
 			}
